@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
+<body>
+    <h1> Trabalhando com Listas</h1>
+    <h2> Listas Ordenadas </h2>
+    <ol type="1"> 
+        <li>Acordar</li>
+        <li>Tomar Café</li>
+        <li>Estagiar</li>
+        <li>Almoçar</li>
+        <li>Estudar</li>
+        <li>Lanchar</li>
+        <li>Faculdade</li>
+        Dormir
+    </ol>
+    <ol type="1" start="4"> 
+        <li>Acordar</li>
+        <li>Tomar Café</li>
+        <li>Estagiar</li>
+        <li>Almoçar</li>
+        <li>Estudar</li>
+        <li>Lanchar</li>
+        <li>Faculdade</li>
+        Dormir
+    </ol>
+
+    <ul type="square"> <!-- disc, circle, square-->
+        <h2>Lista Não Ordenadas</h2>
+        <li>Pão
+        <li>Verduras
+        <li> Frutas
+
+    </ul>
+    <h2>Juntando Listas</h2>
+    <ol> 
+        <li> 
+
+            
+        </li>
+
+
+
+    </ol>
+</body>
+</html>
+
