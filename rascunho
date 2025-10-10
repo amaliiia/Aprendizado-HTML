@@ -38,14 +38,41 @@
     </ul>
     <h2>Juntando Listas</h2>
     <ol> 
-        <li> 
-
-            
-        </li>
-
-
-
+        <li>Linguagens recentes 2025</li>
+        <ol type="a"> 
+            <li>CSS</li>
+            <li>Html</li>
+            <li>Python</li>
+            <li>PHP</li>
+            <li>JavaScript</li>
+        </ol>
+        <li>Linguagens futuras</li>
+        <ol type="a" start="6"> 
+            <li>Java</li>
+            <li>C#</li>
+            <li>C++</li>
+            <li>Go</li>
+            <li>Kotlin</li>
+            <li>Swift</li>
+            <li>R</li>
+        </ol>
+    </ol>
+    <h2>Lista dentro da outra</h2>
+    <ol>
+        <li>Jogos de Computador</li>
+        <ul type="circle">
+            <li>Habbo</li>
+            <ul type="circle"> 
+                <li>Subjogos</li>
+            </ul>
+            <li>Club Penguim</li>
+            <li>Ojogos</li>
+    </ul>
+        <li>Jogos de Celular</li>
+        <ul type="circle">
+            <li>Asphalt</li>
+            <li>Blitz Brigade</li>
+        </ul>
     </ol>
 </body>
 </html>
-
